@@ -27,7 +27,7 @@ public class ForwardKinematics {
 	// Public method: returns the root of the position tree
 	public static Node computePositions(Segment root, double originX, double originY) {
 		// TODO: Implemente este método
-		//tengo que terminar esto
+		//tengo que terminar esto pero ya
 	}
 
 	// Private helper method that implements the recursive algorithm
