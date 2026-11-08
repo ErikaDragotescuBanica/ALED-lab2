@@ -32,7 +32,7 @@ public class ForwardKinematics {
 
 	// Private helper method that implements the recursive algorithm
 	private static Node computePositions(Segment link, double baseX, double baseY, double accumulatedAngle) {
-		// TODO: Implemente este método
+		// TODO: Implemente este método. Tengo que hacer esto.
 		//tengo que terminar esto
 	}
 }
